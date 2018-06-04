@@ -4,6 +4,10 @@ Ce site contient le support du cours **PostgreSQL**. Ce cours a été rédigé p
 
 Ce support de cours n'est pas exhaustif sur les fonctionnalités de PostgreSQL et se veut une introduction solide aux spécifités de PostgreSQL et à son administration.
 
+## Challenges
+
+* [Liste des challenges](/challenges/challenges.md)
+
 ## Resources utiles
 
 * [La documentation de PostgreSQL 10](https://www.postgresql.org/docs/10/static/index.html)
