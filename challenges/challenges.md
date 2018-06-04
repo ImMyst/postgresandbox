@@ -11,3 +11,5 @@ Faire un script `create_admin_user`, qui se lance avec l'utilisateur postgres (s
 Créer une base de donnée "admin", dont il est "owner".
 
 Il faut pouvoir se connecter à psql avec la commande `psql --username=admin --password`.
+
+Le fichier `pg_hba.conf` doit être mis à disposition sur le dossier github.
