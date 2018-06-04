@@ -13,3 +13,7 @@ Créer une base de donnée "admin", dont il est "owner".
 Il faut pouvoir se connecter à psql avec la commande `psql --username=admin --password`.
 
 Le fichier `pg_hba.conf` doit être mis à disposition sur le dossier github.
+
+## 3 - Modifier la configuration de postgresql
+
+Créer un script `set_configuration` qui va mettre à jour la timezone de PostgreSQL avec la timezone française et affiche la bonne heure modifiée. Il utilisera le nouvel utilisateur "admin".
