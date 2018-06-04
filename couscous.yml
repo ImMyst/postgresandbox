@@ -1,0 +1,9 @@
+template:
+    url: https://github.com/moqmar/mintlook-couscous
+
+title: Cours PostgreSQL # Page Title
+# logo: https://cdn0.iconfinder.com/data/icons/ie_Shine/128/shine_19.png # Icon URL
+color: "#E94465"   # Accent color
+
+footer: |
+    Cours rédigé par Gabriel Pillet

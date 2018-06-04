@@ -1,0 +1,17 @@
+{
+    "name": "gabriel/postgresandbox",
+    "type": "project",
+    "authors": [
+        {
+            "name": "tentacode",
+            "email": "contact@gabrielpillet.com"
+        }
+    ],
+    "config": {
+        "bin-dir": "bin"
+    },
+    "require": {
+        "fzaninotto/faker": "^1.7",
+        "couscous/couscous": "^1.6"
+    }
+}
