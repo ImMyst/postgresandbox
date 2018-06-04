@@ -48,5 +48,6 @@ Le script devra s'appeler  `create_show_database` et créera toutes tables. Je v
 
 À la fin du script, les tables `show`, `episode`, `user` et deux tables de jointures (`episode_watch` et `episode_rating`) doivent être dans la base de données `shows`.
 
+* Vous pouvez avoir besoin de la commande psql `\c` pour changer de base de données pendant le script, ex : `\c shows`.
 * Tutoriel sur [les types de données](http://www.postgresqltutorial.com/postgresql-data-types/)
 * Tutoriel sur [la syntaxe CREATE TABLE](http://www.postgresqltutorial.com/postgresql-create-table/)
